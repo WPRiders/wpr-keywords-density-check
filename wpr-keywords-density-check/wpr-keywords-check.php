@@ -5,7 +5,7 @@
  * Plugin URI: http://www.wpriders.com
  * Description: This plugin will add to POSTS a new metabox which will help you check keyword density based on editor text content. There no settings for this plugin. Install it and then look into POSTS.
  * Version: 1.0.0
- * Author: Mihai Irodiu
+ * Author: Mihai Irodiu from WPRiders
  * Author URI: http://www.wpriders.com
  * License: GPL2
  */
